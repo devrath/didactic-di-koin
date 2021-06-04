@@ -1,4 +1,4 @@
-package com.example.code
+package com.example.code.utils.contexthelper
 
 import android.app.Activity
 import android.content.Context

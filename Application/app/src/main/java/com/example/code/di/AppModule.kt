@@ -1,7 +1,7 @@
 package com.example.code.di
 
-import com.example.code.ActivityRetriever
 import com.example.code.DefaultCurrentActivityListener
+import com.example.code.utils.contexthelper.ActivityRetriever
 import org.koin.dsl.module
 
 val appModule = module {
