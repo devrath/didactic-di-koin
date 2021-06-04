@@ -40,13 +40,13 @@
         app:layout_constraintRight_toRightOf="parent"
         >
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/explanation"
-        android:layout_marginTop="20dp"
-        tools:text="Explanation of Image"
-        android:textColor="@android:color/black"
-        />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/explanation"
+            android:layout_marginTop="20dp"
+            tools:text="Explanation of Image"
+            android:textColor="@android:color/black"
+            />
     </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>
